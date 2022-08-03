@@ -37,13 +37,19 @@ nav{
   top: 0px;
   left:0px;
   right: 0px;
-  height: 70px;
+  height: 80px;
   font-size: 2.5rem;
   font-weight: 700;
   color: white;
+  display: flex;
+  justify-content: center;
   background-color: darkcyan;
   padding: 10px;
   box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+nav img{
+  height: 60px
 }
 
 h1{

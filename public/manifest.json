@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Pokemon Deck",
+  "name": "Catch 'em All: Pokemon Deck",
   "icons": [
     {
       "src": "favicon.ico",
